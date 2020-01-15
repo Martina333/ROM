@@ -10,17 +10,18 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[      1016,         38]
-NotebookOptionsPosition[       723,         25]
-NotebookOutlinePosition[      1066,         40]
-CellTagsIndexPosition[      1023,         37]
+NotebookDataLength[      1149,         39]
+NotebookOptionsPosition[       856,         26]
+NotebookOutlinePosition[      1199,         41]
+CellTagsIndexPosition[      1156,         38]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
-Cell[BoxData["projekt"], "Input",
- CellChangeTimes->{{3.788089138962378*^9, 
-  3.7880891398070107`*^9}},ExpressionUUID->"05c0bb8f-a8bd-4eda-b611-\
+Cell[BoxData[{"projekt", "\[IndentingNewLine]", "s"}], "Input",
+ CellChangeTimes->{{3.788089138962378*^9, 3.7880891398070107`*^9}, {
+  3.7880895167731934`*^9, 3.7880895318680525`*^9}, {3.7880895944795284`*^9, 
+  3.7880895947774425`*^9}},ExpressionUUID->"05c0bb8f-a8bd-4eda-b611-\
 afdc93e0ae62"]
 },
 WindowSize->{759, 833},
@@ -39,10 +40,8 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 161, 3, 28, "Input",ExpressionUUID->"05c0bb8f-a8bd-4eda-b611-afdc93e0ae62"]
+Cell[558, 20, 294, 4, 48, "Input",ExpressionUUID->"05c0bb8f-a8bd-4eda-b611-afdc93e0ae62"]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
